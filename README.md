@@ -3,10 +3,20 @@
 Meu nome é Marcelo Barros, atuo com desenvolvimento de software full-stack há mais de 5 anos e possuo experiência com principalmente com SaaS. Entusiasta de tecnologias e sistemas, 
 faminto por conhecimentos!
 
-:earth_americas: Rio de Janeiro, Brasil
-:man: 21 anos
+### Sobre mim
+- :earth_americas: Rio de Janeiro, Brasil
+- :man: 21 anos
 
-### 📫 Meus contatos
+### Tecnologias que trabalho
+- NodeJS
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+- MySQL/PostgreSQL
+- MongoDB/Redis
+
+### 📫 Contato
 <a target="_blank" href="https://linkedin.com/in/mhbarros">
 <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="Linkedin"/>
 </a>
@@ -14,7 +24,7 @@ faminto por conhecimentos!
 <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Linkedin"/>
 </a>
 <a href="mailto:mhbarros99@gmail.com">
-<img src="https://img.icons8.com/bubbles/48/000000/gmail.png" alt="E-mail"/>
+<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="E-mail"/>
 </a>
 
 <!--
