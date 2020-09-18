@@ -5,7 +5,7 @@ faminto por conhecimento!
 
 ### Sobre mim
 - :earth_americas: Rio de Janeiro, Brasil
-- :man: 21 anos
+<!-- - :man: 21 anos -->
 
 ### Tecnologias que trabalho
 - NodeJS
