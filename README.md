@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Meu nome é Marcelo Barros, atuo com desenvolvimento de software full-stack há mais de 5 anos e possuo experiência com principalmente com SaaS. Entusiasta de tecnologias e sistemas, 
-faminto por conhecimentos!
+faminto por conhecimento!
 
 ### Sobre mim
 - :earth_americas: Rio de Janeiro, Brasil
@@ -24,7 +24,7 @@ faminto por conhecimentos!
 <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Linkedin"/>
 </a>
 <a href="mailto:mhbarros99@gmail.com">
-<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="E-mail"/>
+<img src="https://img.icons8.com/bubbles/48/000000/gmail.png" alt="E-mail"/>
 </a>
 
 <!--
