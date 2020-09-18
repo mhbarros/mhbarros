@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Marcelo Barros, atuo com desenvolvimento de software full-stack há mais de 5 anos e possuo experiência com principalmente com SaaS. Entusiasta de tecnologias e sistemas, 
+Meu nome é Marcelo Barros, atuo com desenvolvimento de software full-stack há mais de 5 anos e possuo experiência principalmente com sistema SaaS. Entusiasta de tecnologias e sistemas, 
 faminto por conhecimento!
 
 ### Sobre mim
@@ -9,6 +9,7 @@ faminto por conhecimento!
 
 ### Tecnologias que trabalho
 - NodeJS
+- React/React Native
 - PHP
 - JavaScript
 - HTML5
