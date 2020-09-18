@@ -13,7 +13,7 @@ faminto por conhecimentos!
 <a target="_blank" href="https://t.me/mhbarros">
 <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Linkedin"/>
 </a>
-<a href="#" onclick="mailto:mhbarros99@gmail.com">
+<a href="mailto:mhbarros99@gmail.com">
 <img src="https://img.icons8.com/bubbles/48/000000/gmail.png" alt="E-mail"/>
 </a>
 
