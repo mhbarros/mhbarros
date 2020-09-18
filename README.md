@@ -1,7 +1,23 @@
-### Hi there 👋
+### Olá! 👋
+
+Meu nome é Marcelo Barros, atuo com desenvolvimento de software full-stack há mais de 5 anos e possuo experiência com principalmente com SaaS. Entusiasta de tecnologias e sistemas, 
+faminto por conhecimentos!
+
+:earth_americas: Rio de Janeiro, Brasil
+:man: 21 anos
+
+### 📫 Meus contatos
+<a target="_blank" href="https://linkedin.com/in/mhbarros">
+<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="Linkedin"/>
+</a>
+<a target="_blank" href="https://t.me/mhbarros">
+<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Linkedin"/>
+</a>
+<a href="#" onclick="mailto:mhbarros99@gmail.com">
+<img src="https://img.icons8.com/bubbles/48/000000/gmail.png" alt="E-mail"/>
+</a>
 
 <!--
-**mhbarros/mhbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
